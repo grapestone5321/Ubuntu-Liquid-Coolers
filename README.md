@@ -33,4 +33,10 @@ https://askubuntu.com/questions/553425/how-can-i-tell-from-within-ubuntu-if-my-l
 
 -------
 
+## Support for NZXT Kraken X53, X63 and X73 #78
+https://github.com/liquidctl/liquidctl/issues/78
+
+-------
+
+
 

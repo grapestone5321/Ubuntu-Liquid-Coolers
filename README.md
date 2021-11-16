@@ -38,5 +38,26 @@ https://github.com/liquidctl/liquidctl/issues/78
 
 -------
 
+## How To Control AIO Water Cooler on Linux | LiquidCTL Tutorial
+https://www.youtube.com/watch?v=8Fmv5gM-5Vo
 
+Zaney
+
+- Patreon - https://www.patreon.com/akazaney
+- Dotfiles - https://www.gitlab.com/Zaney/dotfiles​​​
+- Discord - https://discord.gg/2cRdBs8
+
+- LiquidCTL - https://github.com/liquidctl/liquidctl
+
+So are you switching over to Linux or a FOSS enthusiast with an AIO water cooler. 
+
+You thought you needed Windows to control your water cooler?.. 
+
+Ok I am just going to stop.. 
+
+Liquidctl is a great program for controlling your pump speed, fan speed, and rgb water cooling setup on Linux. 
+
+Enjoy!
+
+-------
 

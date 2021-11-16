@@ -72,3 +72,15 @@ Enjoy!
 
 -------
 
+## liquidctl – liquid cooler control Cross-platform tool and drivers for liquid coolers and other devices
+## liquidctl – liquid cooler control
+https://pythonrepo.com/repo/liquidctl-liquidctl-python-command-line-tools
+
+
+
+
+
+-------
+
+
+

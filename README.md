@@ -1,7 +1,18 @@
 # Ubuntu-Liquid-Coolers
 Ubuntu-Liquid-Coolers
 
+-------
 
+## Liquid cooling Ryzen 5950x, let's pkg & test some open source for Linux!
+https://www.youtube.com/watch?v=sK3YdwehwIk
+
+More Bits inside by René Rebe
+
+#liquid #cooling #aio #liquidctl #Linux! #Ad: Single Board Computer & more @Amazon: https://services.exactcode.de/amzn.cg... 
+
+You can support my work at: https://patreon.com/renerebe
+
+https://exactcode.com https://t2sde.org https://rene.rebe.de
 
 -------
 

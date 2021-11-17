@@ -92,3 +92,11 @@ Code Calamity
 
 
 -------
+
+## Installing liquidctl on 20.1
+https://www.reddit.com/r/linuxmint/comments/le8oqa/installing_liquidctl_on_201/
+
+-------
+
+
+

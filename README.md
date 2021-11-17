@@ -98,5 +98,14 @@ https://www.reddit.com/r/linuxmint/comments/le8oqa/installing_liquidctl_on_201/
 
 -------
 
+## liquidctl Linux
+https://furamon.work/post/2021/05/liquidctl/
+
+
+GitHub - liquidctl/liquidctl: Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
+https://github.com/liquidctl/liquidctl
+
+-------
+
 
 

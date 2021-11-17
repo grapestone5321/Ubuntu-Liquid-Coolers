@@ -2,6 +2,9 @@
 Ubuntu-Liquid-Coolers
 
 -------
+-------
+
+# YouTube
 
 ## Liquid cooling Ryzen 5950x, let's pkg & test some open source for Linux!
 https://www.youtube.com/watch?v=sK3YdwehwIk
@@ -28,24 +31,6 @@ https://github.com/audiohacked/OpenCorsairLink
 
 https://github.com/liquidctl/liquidctl
 
-
--------
-
-## lm-sensors
-https://kaworu.jpn.org/ubuntu/lm-sensors
-
-
--------
-
-
-## How can I tell from within Ubuntu if my liquid cooling system is pumping?
-https://askubuntu.com/questions/553425/how-can-i-tell-from-within-ubuntu-if-my-liquid-cooling-system-is-pumping
-
-
--------
-
-## Support for NZXT Kraken X53, X63 and X73 #78
-https://github.com/liquidctl/liquidctl/issues/78
 
 -------
 
@@ -80,6 +65,29 @@ https://pythonrepo.com/repo/liquidctl-liquidctl-python-command-line-tools
 
 
 
+
+-------
+-------
+
+# Blogs
+
+## lm-sensors
+https://kaworu.jpn.org/ubuntu/lm-sensors
+
+
+-------
+
+
+## How can I tell from within Ubuntu if my liquid cooling system is pumping?
+https://askubuntu.com/questions/553425/how-can-i-tell-from-within-ubuntu-if-my-liquid-cooling-system-is-pumping
+
+
+-------
+
+## Support for NZXT Kraken X53, X63 and X73 #78
+https://github.com/liquidctl/liquidctl/issues/78
+
+
 -------
 
 ## Replacing NZXT’s CAM software on Windows for Kraken
@@ -106,6 +114,6 @@ GitHub - liquidctl/liquidctl: Cross-platform CLI and Python drivers for AIO liqu
 https://github.com/liquidctl/liquidctl
 
 -------
-
+-------
 
 

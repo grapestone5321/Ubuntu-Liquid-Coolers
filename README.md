@@ -57,6 +57,69 @@ Enjoy!
 
 
 -------
+
+## HiveOS Water Pump and Chassis Fan Control with NZXT
+https://www.youtube.com/watch?v=gD10_LhWBbo
+
+
+Philip D'Ath
+
+I have a rig with a pair of water-cooled NVidia RTX 3090's with a Gigabyte B560M motherboard.
+
+HiveOS on Ubuntu 18 does not support the motherboard fan headers, and I need those to control the water pump and the radiator fans.
+
+I manage to come up with a solution of using an NZXT RGB & Fan Controller which attaches to a USB header on the motherboard, and some software called liquidctl.
+
+https://github.com/liquidctl/liquidctl
+
+- The steps listed in the video are:
+      Prevent the system from mining while we are changing the cooling so we don't hurt anything.
+      miner stop
+
+- Change to using Python3 by default:
+      update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+
+- Install liquidctl
+      apt install python3-dev libusb-1.0-0-dev libudev-dev
+      pip3 install liquidctl
+
+- See what liquidctl can see
+      liquidctl list
+      liquidctl status
+
+- Initialize all controllers and try and set fan1 to 50% as a test
+      liquidctl initialize all
+      liquidctl --match NZXT set fan1 speed 50
+
+- Configure the fan control to run at system boot
+      vi /etc/systemd/system/liquidcfg.service
+
+### [Unit]
+      Description=AIO startup service
+
+### [Service]
+      Type=oneshot
+      ExecStart=/usr/local/bin/liquidctl initialize all
+      ExecStart=/usr/local/bin/liquidctl --match NZXT set fan1 speed 50
+      ExecStart=/usr/local/bin/liquidctl --match NZXT set fan2 speed 90
+      ExecStart=/usr/local/bin/liquidctl --match NZXT set fan3 speed 90
+
+### [Install]
+      WantedBy=default.target
+
+
+- Tell the system to load info about the services configured on the system
+      systemctl daemon-reload
+- Manually start the server we configured
+      systemctl start liquidcfg
+- Tell the system to run it at system boot
+      systemctl enable liquidcfg
+
+
+
+
+
+-------
 -------
 
 # Blogs

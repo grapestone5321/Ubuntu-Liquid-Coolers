@@ -115,7 +115,17 @@ https://github.com/liquidctl/liquidctl
 - Tell the system to run it at system boot
       systemctl enable liquidcfg
 
+------
 
+## GKraken: control the NZXT Kraken from Linux, with a GUI!
+https://www.youtube.com/watch?v=tGY5EMKNRjU
+
+
+Roberto Leinardi
+
+GUI that allows to control cooling (and soon lighting) of NZXT Kraken X (X42, X52, X62 or X72) pumps from Linux
+
+More information available here: https://gitlab.com/leinardi/gkraken
 
 
 
@@ -178,6 +188,18 @@ https://furamon.work/post/2021/05/liquidctl/
 
 GitHub - liquidctl/liquidctl: Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 https://github.com/liquidctl/liquidctl
+
+
+
+-------
+
+## How to control a NZXT Kraken from Linux, with a GUI!
+https://medium.com/@leinardi/how-to-control-a-nzxt-kraken-from-linux-with-a-gui-93367113f2f5
+
+Roberto Leinardi
+
+
+
 
 -------
 -------

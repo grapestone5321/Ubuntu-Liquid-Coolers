@@ -82,5 +82,13 @@ https://pythonrepo.com/repo/liquidctl-liquidctl-python-command-line-tools
 
 -------
 
+## Replacing NZXT’s CAM software on Windows for Kraken
+https://codecalamity.com/tag/python/page/3/
+
+Code Calamity
+
+- Install liquidctl
+- Using liquidctl
 
 
+-------

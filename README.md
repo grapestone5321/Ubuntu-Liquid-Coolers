@@ -55,6 +55,16 @@ Liquidctl is a great program for controlling your pump speed, fan speed, and rgb
 
 Enjoy!
 
+
+-------
+-------
+
+# Blogs
+
+## lm-sensors
+https://kaworu.jpn.org/ubuntu/lm-sensors
+
+
 -------
 
 ## liquidctl – liquid cooler control Cross-platform tool and drivers for liquid coolers and other devices
@@ -66,13 +76,6 @@ https://pythonrepo.com/repo/liquidctl-liquidctl-python-command-line-tools
 
 
 
--------
--------
-
-# Blogs
-
-## lm-sensors
-https://kaworu.jpn.org/ubuntu/lm-sensors
 
 
 -------

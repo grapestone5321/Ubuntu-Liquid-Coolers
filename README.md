@@ -8,10 +8,10 @@ Ubuntu-Liquid-Coolers
 https://medium.com/@leinardi/how-to-control-a-nzxt-kraken-from-linux-with-a-gui-93367113f2f5
 
 ### These are the most common CLI(Command Line Interface) tools:
-- camctl
-- krakenx
-- leviathan
-- liquidctl
+- camctl: https://github.com/leaty/camctl
+- krakenx: https://github.com/KsenijaS/krakenx
+- leviathan: https://github.com/brkalmar/leviathan
+- liquidctl：https://github.com/liquidctl/liquidctl
 
 These tools allow you to interact and control the Kraken from a terminal
 

@@ -3,7 +3,7 @@ Ubuntu-Liquid-Coolers
 
 -------
 
-These are the most common CLI tools:
+These are the most common CLI(Command Line Interface) tools:
 - camctl
 - krakenx
 - leviathan

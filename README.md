@@ -2,6 +2,17 @@
 Ubuntu-Liquid-Coolers
 
 -------
+
+These are the most common CLI tools:
+- camctl
+- krakenx
+- leviathan
+- liquidctl
+
+These tools allow you to interact and control the Kraken from a terminal
+
+
+-------
 -------
 
 # YouTube

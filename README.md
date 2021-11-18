@@ -146,6 +146,24 @@ GUI that allows to control cooling (and soon lighting) of NZXT Kraken X (X42, X5
 
 More information available here: https://gitlab.com/leinardi/gkraken
 
+-------
+
+## NZXT KRAKEN 
+
+## Top Tech Review - NZXT Kraken X63 Unbox & Review the Infinity Beauty
+https://www.youtube.com/watch?v=7Tsk3HDTZRc
+
+Hello and welcome to the NTech Labo channel, and thank you for watching Top Tech Product Review - NZXT Kraken X63 Unbox & Review the  Infinity Beauty. 
+
+Enjoy our video tech contents as we give you advice and ideas on Computer Builds, PC Modding, Awesome Hardware Features, Hardware Unboxed, and Modifications. 
+
+-------
+
+## NZXT KRAKEN X63 RGB - finally adding RGB fans!
+https://www.youtube.com/watch?v=RbxGBxX6fhI
+
+
+
 
 
 -------

@@ -3,7 +3,11 @@ Ubuntu-Liquid-Coolers
 
 -------
 
-These are the most common CLI(Command Line Interface) tools:
+
+## How to control a NZXT Kraken from Linux, with a GUI!
+https://medium.com/@leinardi/how-to-control-a-nzxt-kraken-from-linux-with-a-gui-93367113f2f5
+
+### These are the most common CLI(Command Line Interface) tools:
 - camctl
 - krakenx
 - leviathan
@@ -11,6 +15,10 @@ These are the most common CLI(Command Line Interface) tools:
 
 These tools allow you to interact and control the Kraken from a terminal
 
+## nzxt
+https://web--proxy.herokuapp.com/https/github.com/topics/nzxt
+
+Here are 14 public repositories matching this topic...
 
 -------
 -------

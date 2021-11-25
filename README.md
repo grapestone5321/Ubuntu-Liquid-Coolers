@@ -236,6 +236,8 @@ License: Creative Commons Attribution license (reuse allowed)
 ## lm-sensors
 https://kaworu.jpn.org/ubuntu/lm-sensors
 
+## How to monitor Ryzen Temperatures on Ubuntu 18.04?
+https://askubuntu.com/questions/1091671/how-to-monitor-ryzen-temperatures-on-ubuntu-18-04
 
 -------
 

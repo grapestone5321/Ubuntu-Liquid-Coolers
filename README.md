@@ -4,6 +4,14 @@ Ubuntu-Liquid-Coolers
 -------
 
 
+## lm-sensors
+https://kaworu.jpn.org/ubuntu/lm-sensors
+
+## How to monitor Ryzen Temperatures on Ubuntu 18.04?
+https://askubuntu.com/questions/1091671/how-to-monitor-ryzen-temperatures-on-ubuntu-18-04
+
+-------
+
 ## How to control a NZXT Kraken from Linux, with a GUI!
 https://medium.com/@leinardi/how-to-control-a-nzxt-kraken-from-linux-with-a-gui-93367113f2f5
 
@@ -233,13 +241,7 @@ License: Creative Commons Attribution license (reuse allowed)
 
 # Blogs
 
-## lm-sensors
-https://kaworu.jpn.org/ubuntu/lm-sensors
 
-## How to monitor Ryzen Temperatures on Ubuntu 18.04?
-https://askubuntu.com/questions/1091671/how-to-monitor-ryzen-temperatures-on-ubuntu-18-04
-
--------
 
 ## liquidctl – liquid cooler control Cross-platform tool and drivers for liquid coolers and other devices
 ## liquidctl – liquid cooler control

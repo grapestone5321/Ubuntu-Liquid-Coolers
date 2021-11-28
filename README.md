@@ -9,16 +9,20 @@ https://github.com/liquidctl/liquidctl/blob/main/docs/kraken-x3-z3-guide.md
       # liquidctl list
       
 - Initialization
+
       # liquidctl initialize
 
 - Monitoring
+
       # liquidctl status
 
 - Fan and pump speeds
+
       # liquidctl set pump speed 90
       # liquidctl set pump speed 20 30 30 50 34 80 40 90 50 100
 
 - RGB lighting with LEDs
+
       # liquidctl set sync color fixed af5a2f
       # liquidctl set ring color fading 350017 ff2608
       # liquidctl set logo color pulse ffffff

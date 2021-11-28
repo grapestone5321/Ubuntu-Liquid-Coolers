@@ -3,6 +3,10 @@ Ubuntu-Liquid-Coolers
 
 -------
 
+## liquidctl/docs/kraken-x3-z3-guide.md
+https://github.com/liquidctl/liquidctl/blob/main/docs/kraken-x3-z3-guide.md
+
+-------
 
 ## lm-sensors
 https://kaworu.jpn.org/ubuntu/lm-sensors

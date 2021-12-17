@@ -16,7 +16,7 @@ https://github.com/liquidctl/liquidctl/blob/main/docs/kraken-x3-z3-guide.md
 
 - Monitoring
 
-      $ sudo iquidctl status
+      $ sudo liquidctl status
 
 - Fan and pump speeds
 
